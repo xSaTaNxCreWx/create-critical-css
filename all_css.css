@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* Пример общего файла стилей */
+
+h1 {
+	color: #000000;
+	font-size: 12px;
+}
+
+p {
+	padding-bottom: 30px;
+	color: #FF0000;
+}

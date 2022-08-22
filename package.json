@@ -1,0 +1,7 @@
+{
+  "name": "create-critical-css",
+  "version": "1.0.0",
+  "dependencies": {
+    "penthouse": "^2.3.3"
+  }
+}
